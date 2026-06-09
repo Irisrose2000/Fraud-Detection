@@ -139,20 +139,18 @@ Credit-Card-Fraud-Detection/
 │
 ├── data/
 │   ├── raw/                        # Original transaction dataset
-│   └── processed/                  # Cleaned & encoded data
-│
+│                   
 ├── notebooks/
-│   └── fraud_detection.ipynb       # Full ML pipeline + EDA
-│
-├── models/
-│   └── random_forest_model.pkl     # Saved best model
-│
-├── dashboard/
-│   └── fraud_dashboard.xlsx        # Excel BI dashboard
-│
-├── requirements.txt
+│   └── fraud_detection.ipynb       
 └── README.md
 ```
+
+### Results 
+<img width="1819" height="515" alt="image" src="https://github.com/user-attachments/assets/7521e6ae-d8d7-48df-b9b9-f404eccf247b" />
+<img width="1861" height="546" alt="image" src="https://github.com/user-attachments/assets/e82adccf-0884-410a-a9de-c36371a558fe" />
+<img width="1919" height="235" alt="image" src="https://github.com/user-attachments/assets/58321198-ab51-44dd-a356-881a6cc5555a" />
+
+
 
 ---
 
